@@ -1,0 +1,24 @@
+.gradientText {
+  color: transparent;
+  -webkit-background-clip: text;
+}
+.container {
+  background-repeat: no-repeat;
+  background-color: rgb(5, 12, 49);
+  height:fit-content;
+  @apply bg-cover  ;
+  
+}
+.intermediate{
+  @apply w-screen; 
+  height: 42vh;
+
+}
+.maintext {
+  font-size: 27px;
+  font-weight: 100;
+  letter-spacing: normal;
+}
+.stackwrapper{
+    @apply flex flex-row ;
+}

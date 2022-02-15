@@ -1,0 +1,17 @@
+.rounded{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    
+    
+
+}       
+.shadow01{
+    box-shadow: 0px 2px 3px rgb(231, 60, 180);
+}
+.shadow02{
+    box-shadow: 0px 2px 3px rgb(241, 238, 3);
+}
+.shadow03{
+    box-shadow: 0px 2px 3px rgb(9, 91, 241);
+}

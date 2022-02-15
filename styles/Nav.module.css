@@ -1,0 +1,8 @@
+.li   {
+    @apply text-white ml-5 mr-5 hover:text-purple-200 transition duration-100  ;
+    
+}
+.nav{
+    @apply absolute top-0 left-0 ;
+
+}

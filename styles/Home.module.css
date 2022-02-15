@@ -1,0 +1,13 @@
+.container {
+background-image: url("/stacked_waves.svg"); 
+background-repeat: no-repeat;
+@apply bg-cover  ; 
+height:100vh;
+
+}
+.companyname{
+  color:transparent;
+  background: linear-gradient(90.16deg, #00FFF0 2.28%, #DB00FF 102.04%);
+  -webkit-background-clip: text;
+ 
+}

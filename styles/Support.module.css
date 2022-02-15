@@ -1,0 +1,14 @@
+.gradientText {
+  color: transparent;
+  -webkit-background-clip: text;
+}
+.container {
+  background-repeat: no-repeat;
+  @apply bg-cover ;
+  height: 100vh;
+}
+.maintext {
+  font-size: 27px;
+  font-weight: 100;
+  letter-spacing: normal;
+}
